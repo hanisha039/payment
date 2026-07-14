@@ -305,3 +305,4 @@ VALUES (1, '123456', CURRENT_TIMESTAMP + INTERVAL '5 minutes');
 INSERT INTO otp_requests (card_id, otp, expires_at)
 VALUES (2, '654321', CURRENT_TIMESTAMP + INTERVAL '1 minutes');
 webhook test
+webhook test
